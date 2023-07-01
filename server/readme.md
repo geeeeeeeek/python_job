@@ -10,7 +10,7 @@ CREATE DATABASE IF NOT EXISTS python_job DEFAULT CHARSET utf8 COLLATE utf8_gener
 ```
 3. 恢复sql数据
 ```
-use shop
+use xxx
 source xxxx.sql
 ```
 4. 修改settings.py中的配置信息
