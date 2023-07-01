@@ -70,12 +70,12 @@ npm run dev
 
 首页
 
-![]()
+![](https://github.com/geeeeeeeek/python_job/blob/master/server/upload/img/a.png)
 
 
 后台页面
 
-![]()
+![](https://github.com/geeeeeeeek/python_job/blob/master/server/upload/img/b.png)
 
 
 
